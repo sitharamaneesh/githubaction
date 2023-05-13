@@ -1,3 +1,3 @@
 # hello.py
 
-print("Hello, world!")
+print("Hello, welcome to github actions!")
